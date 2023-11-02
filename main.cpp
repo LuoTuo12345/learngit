@@ -337,5 +337,6 @@ int main(int argc, char** argv)
 		glfwPollEvents();
 	}
     std::cout << "程序运行结束啦 " << std::endl;
+    std::cout << "加油 " << std::endl;
 	return 0;
 }
