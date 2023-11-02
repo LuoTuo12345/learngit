@@ -336,6 +336,6 @@ int main(int argc, char** argv)
 		glfwSwapBuffers(window);
 		glfwPollEvents();
 	}
-    std::cout << "程序运行结束 " << std::endl;
+    std::cout << "程序运行结束啦 " << std::endl;
 	return 0;
 }
